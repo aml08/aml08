@@ -18,7 +18,7 @@ Architecture Cloud Serverless sécurisée (IAM) pour l'analyse de ventes. Pipeli
 **Tech :** Machine Learning, XGBoost, SMOTE
 Modèle de détection de fraude bancaire optimisé pour le business (**37M€ d'économies théoriques**). Maximisation du Recall et minimisation des risques.
 
-### 🚛 [Logistics Data Optimization](LIEN_A_VENIR)
+### 🚛 [Logistics Data Optimization](https://github.com/aml08/Supply-Chain-Data-Pipeline-Optimization)
 **Tech :** PostgreSQL, Python, SQL Optimization
 Nettoyage et centralisation de flux logistiques hétérogènes. **-25%** de temps de requête et **100%** de données critiques sauvées (Projet Industriel).
 
