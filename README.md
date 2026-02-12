@@ -1,7 +1,7 @@
-# 👋 Hello, I'm Adja Maguette Lo!
+# 👋 Bonjour, je suis Adja Maguette LO !
 
 ### 🎓 Data Scientist | Data Engineer | Security-Aware
-📍 Based in Paris, France
+📍 Basée à Paris, France
 
 Profil hybride avec 4 ans d'expérience (Vinci Energies, Tersea) spécialisé dans la transformation de données complexes en solutions business sécurisées.
 Je combine une expertise en **Architecture Cloud (AWS)**, **Machine Learning**, **Analyse de données** et **Cybersécurité**.
