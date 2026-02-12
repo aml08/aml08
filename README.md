@@ -8,7 +8,7 @@ Je combine une expertise en **Architecture Cloud (AWS)**, **Machine Learning**, 
 
 ---
 
-## Featured Projects
+## Projets
 
 ### 🏗️ [AWS Data Lakehouse & BI](LIEN_A_VENIR)
 **Tech :** AWS Glue, Athena, S3, IAM, QuickSight
