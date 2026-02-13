@@ -14,7 +14,7 @@ Je combine une expertise en **Architecture Cloud (AWS)**, **Machine Learning**, 
 **Tech :** AWS Glue, Athena, S3, IAM, QuickSight
 Architecture Cloud Serverless sécurisée (IAM) pour l'analyse de ventes. Pipeline ETL automatisé et gouvernance des données.
 
-### 💳 [Financial Fraud Detection (ROI Focus)](LIEN_A_VENIR)
+### 💳 [Financial Fraud Detection (ROI Focus)](https://github.com/aml08/AI-Bank-Fraud-Detection)
 **Tech :** Machine Learning, XGBoost, SMOTE
 Modèle de détection de fraude bancaire optimisé pour le business (**37M€ d'économies théoriques**). Maximisation du Recall et minimisation des risques.
 
