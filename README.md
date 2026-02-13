@@ -10,7 +10,7 @@ Je combine une expertise en **Architecture Cloud (AWS)**, **Machine Learning**, 
 
 ## Projets
 
-### 🏗️ [AWS Data Lakehouse & BI](LIEN_A_VENIR)
+### 🏗️ [AWS Data Lakehouse & BI](https://github.com/aml08/AWS-Serverless-Data-Lake-ShopNow)
 **Tech :** AWS Glue, Athena, S3, IAM, QuickSight
 Architecture Cloud Serverless sécurisée (IAM) pour l'analyse de ventes. Pipeline ETL automatisé et gouvernance des données.
 
