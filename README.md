@@ -3,7 +3,7 @@
 ### Data Scientist | Data Engineer | Security-Aware
 Basée à Paris, France
 
-Profil hybride avec 4 ans d'expérience (Vinci Energies, Tersea) spécialisé dans la transformation de données complexes en solutions business sécurisées.
+Profil hybride avec 4 ans d'expérience en alternance (Vinci Energies, Tersea, Angel) spécialisé dans la transformation de données complexes en solutions business sécurisées.
 Je combine une expertise en **Architecture Cloud (AWS)**, **Machine Learning**, **Analyse de données** et **Cybersécurité**.
 
 ---
