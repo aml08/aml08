@@ -22,7 +22,7 @@ Modèle de détection de fraude bancaire optimisé pour le business (**37M€ d'
 **Tech :** PostgreSQL, Python, SQL Optimization
 Nettoyage et centralisation de flux logistiques hétérogènes. **-25%** de temps de requête et **100%** de données critiques sauvées (Projet Industriel).
 
-- 🏥 [**Système Expert - Assurance Santé**](https://github.com/aml08/assurance_app)
+ ### 🏥 [**Système Expert - Assurance Santé**](https://github.com/aml08/assurance_app)
 **Tech :** Python, Streamlit, Scikit-Learn
 Application web ML de prédiction de frais médicaux.
 Focus sur l'explicabilité du modèle, la sécurité (Authentification, Logs) et la conformité RGPD.
