@@ -24,9 +24,10 @@ Nettoyage et centralisation de flux logistiques hétérogènes. **-25%** de temp
 
  ### 🏥 [**Système Expert - Assurance Santé**](https://github.com/aml08/assurance-ml-app)
 **Tech :** Python, Streamlit, Scikit-Learn
-Application web ML de prédiction de frais médicaux.
-Focus sur l'explicabilité du modèle, la sécurité (Authentification, Logs) et la conformité RGPD.
-[ Voir la démo en ligne](https://assurance-ml-app-aml08.streamlit.app/)
+- Application web ML de prédiction de frais médicaux.
+- Focus sur l'explicabilité du modèle, la sécurité (Authentification, Logs) et la conformité RGPD.
+- Nom d'utilisateur : admin, mdp : admin
+- [ Voir la démo en ligne](https://assurance-ml-app-aml08.streamlit.app/)
 
 ### 🍳 [Cook & Save : GenAI Mobile App](LIEN_A_VENIR)
 **Tech :** Flutter, Dart, OpenAI API
