@@ -12,15 +12,18 @@ Je combine une expertise en **Architecture Cloud (AWS)**, **Machine Learning**, 
 
 ### 🏗️ [AWS Data Lakehouse & BI](https://github.com/aml08/AWS-Serverless-Data-Lake-ShopNow)
 **Tech :** AWS Glue, Athena, S3, IAM, QuickSight
-Architecture Cloud Serverless sécurisée (IAM) pour l'analyse de ventes. Pipeline ETL automatisé et gouvernance des données.
+- Architecture Cloud Serverless sécurisée (IAM) pour l'analyse de ventes.
+- Pipeline ETL automatisé et gouvernance des données.
 
 ### 💳 [Financial Fraud Detection (ROI Focus)](https://github.com/aml08/AI-Bank-Fraud-Detection)
 **Tech :** Machine Learning, XGBoost, SMOTE
-Modèle de détection de fraude bancaire optimisé pour le business (**37M€ d'économies théoriques**). Maximisation du Recall et minimisation des risques.
+- Modèle de détection de fraude bancaire optimisé pour le business (**37M€ d'économies théoriques**).
+- Maximisation du Recall et minimisation des risques.
 
 ### 🚛 [Logistics Data Optimization](https://github.com/aml08/Supply-Chain-Data-Pipeline-Optimization)
 **Tech :** PostgreSQL, Python, SQL Optimization
-Nettoyage et centralisation de flux logistiques hétérogènes. **-25%** de temps de requête et **100%** de données critiques sauvées (Projet Industriel).
+- Nettoyage et centralisation de flux logistiques hétérogènes.
+- **-25%** de temps de requête et **100%** de données critiques sauvées (Projet Industriel).
 
  ### 🏥 [**Système Expert - Assurance Santé**](https://github.com/aml08/assurance-ml-app)
 **Tech :** Python, Streamlit, Scikit-Learn
@@ -31,7 +34,8 @@ Nettoyage et centralisation de flux logistiques hétérogènes. **-25%** de temp
 
 ### 🍳 [Cook & Save : GenAI Mobile App](LIEN_A_VENIR)
 **Tech :** Flutter, Dart, OpenAI API
-Application mobile anti-gaspillage "Privacy First" (Données locales). Utilisation de l'IA générative pour créer des recettes contextuelles.
+- Application mobile anti-gaspillage "Privacy First" (Données locales).
+- Utilisation de l'IA générative pour créer des recettes contextuelles.
 
 ---
 
