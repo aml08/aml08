@@ -27,7 +27,7 @@ Nettoyage et centralisation de flux logistiques hétérogènes. **-25%** de temp
 Application web ML de prédiction de frais médicaux.
 Focus sur l'explicabilité du modèle, la sécurité (Authentification, Logs) et la conformité RGPD.
 [ Voir la démo en ligne](https://assurance-ml-app-aml08.streamlit.app/)
-- 
+
 ### 🍳 [Cook & Save : GenAI Mobile App](LIEN_A_VENIR)
 **Tech :** Flutter, Dart, OpenAI API
 Application mobile anti-gaspillage "Privacy First" (Données locales). Utilisation de l'IA générative pour créer des recettes contextuelles.
