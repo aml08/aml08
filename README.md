@@ -8,7 +8,7 @@ Je combine une expertise en **Architecture Cloud (AWS)**, **Machine Learning**, 
 
 ---
 
-## Projets
+## 🚀 Projets
 
 ### 🏗️ [AWS Data Lakehouse & BI](https://github.com/aml08/AWS-Serverless-Data-Lake-ShopNow)
 **Tech :** AWS Glue, Athena, S3, IAM, QuickSight
@@ -25,26 +25,27 @@ Je combine une expertise en **Architecture Cloud (AWS)**, **Machine Learning**, 
 - Nettoyage et centralisation de flux logistiques hétérogènes.
 - **-25%** de temps de requête et **100%** de données critiques sauvées (Projet Industriel).
 
- ### 🏥 [**Système Expert - Assurance Santé**](https://github.com/aml08/assurance-ml-app)
+### 🏥 [Système Expert - Assurance Santé](https://github.com/aml08/assurance-ml-app)
 **Tech :** Python, Streamlit, Scikit-Learn
 - Application web ML de prédiction de frais médicaux.
 - Focus sur l'explicabilité du modèle, la sécurité (Authentification, Logs) et la conformité RGPD.
 - Nom d'utilisateur : admin, mdp : admin
-- [ Voir la démo en ligne](https://assurance-ml-app-aml08.streamlit.app/)
+- [Voir la démo en ligne](https://assurance-ml-app-aml08.streamlit.app/)
 
-### 🍳 [Cook & Save : GenAI Mobile App](LIEN_A_VENIR)
-**Tech :** Flutter, Dart, OpenAI API
-- Application mobile anti-gaspillage "Privacy First" (Données locales).
-- Utilisation de l'IA générative pour créer des recettes contextuelles.
+### 🩺 [Medical NLP Pipeline : Classification Clinique](LIEN_A_METTRE_A_JOUR)
+**Tech :** Python, NLP (Word2Vec), SVM, Scikit-Learn
+- Modèle de classification supervisée multi-classe de transcriptions médicales pour un CHU (objectif : **+30% de productivité**).
+- Pipeline d'apprentissage 100% local garantissant le strict respect du secret médical et la conformité RGPD (aucune API externe).
+- Traitement avancé du déséquilibre des classes et focus sur l'explicabilité clinique.
 
 ---
 
-##  Tech Stack
+## 🛠️ Tech Stack
 
 * **Core:** Python (Expert), SQL (Advanced), Bash.
 * **Cloud & DevOps:** AWS (S3, Glue, Athena), Docker, Git.
 * **Data Engineering:** ETL Pipelines, Data Quality, Modeling.
-* **Data Science:** Scikit-learn, XGBoost, Pandas, GenAI (OpenAI API).
+* **Data Science & ML:** Scikit-learn, XGBoost, NLP (Text Mining, Word2Vec), Pandas.
 * **Security:** IAM Management, Log Analysis, RGPD Compliance.
 
 ---
