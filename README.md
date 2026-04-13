@@ -32,7 +32,7 @@ Je combine une expertise en **Architecture Cloud (AWS)**, **Machine Learning**, 
 - Nom d'utilisateur : admin, mdp : admin
 - [Voir la démo en ligne](https://assurance-ml-app-aml08.streamlit.app/)
 
-### 🩺 [Medical NLP Pipeline : Classification Clinique](LIEN_A_METTRE_A_JOUR)
+### 🩺 [Medical NLP Pipeline : Classification Clinique]((https://github.com/aml08/Medical-NLP-Pipeline)
 **Tech :** Python, NLP (Word2Vec), SVM, Scikit-Learn
 - Modèle de classification supervisée multi-classe de transcriptions médicales pour un CHU (objectif : **+30% de productivité**).
 - Pipeline d'apprentissage 100% local garantissant le strict respect du secret médical et la conformité RGPD (aucune API externe).
