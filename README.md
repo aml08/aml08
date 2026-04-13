@@ -1,4 +1,4 @@
-# 👋 Bonjour, je suis Adja Maguette LO !
+# Bonjour, je suis Adja Maguette LO !
 
 ### Data Scientist | Data Engineer | Data Analyst | Analytics Engineer
 Basée à Paris, France
@@ -8,7 +8,7 @@ Je combine une expertise en **Architecture Cloud (AWS)**, **Machine Learning**, 
 
 ---
 
-## 🚀 Projets
+##  Projets
 
 ### 🏗️ [AWS Data Lakehouse & BI](https://github.com/aml08/AWS-Serverless-Data-Lake-ShopNow)
 **Tech :** AWS Glue, Athena, S3, IAM, QuickSight
