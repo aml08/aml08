@@ -8,31 +8,37 @@ Je combine une expertise en **Architecture Cloud (AWS)**, **Machine Learning**, 
 
 ---
 
-##  Projets
+## Projets
 
-### 🏗️ [AWS Data Lakehouse & BI](https://github.com/aml08/AWS-Serverless-Data-Lake-ShopNow)
+### [Nexus Core - Pipeline & Monitoring (Renault)](https://github.com/aml08/Nexus-Core)
+**Tech :** Python, PostgreSQL, Flask, Git, Analytics
+- Développement et déploiement d’un pipeline de maintenance prédictive pour le suivi des infrastructures serveurs.
+- Création d'une API Flask, requêtage PostgreSQL et intégration continue des flux via Git.
+- Centralisation des KPIs de performance et modélisation des métriques pour le pilotage analytique des anomalies.
+
+### [AWS Data Lakehouse & BI](https://github.com/aml08/AWS-Serverless-Data-Lake-ShopNow)
 **Tech :** AWS Glue, Athena, S3, IAM, QuickSight
 - Architecture Cloud Serverless sécurisée (IAM) pour l'analyse de ventes.
 - Pipeline ETL automatisé et gouvernance des données.
 
-### 💳 [Financial Fraud Detection (ROI Focus)](https://github.com/aml08/AI-Bank-Fraud-Detection)
+### [Financial Fraud Detection (ROI Focus)](https://github.com/aml08/AI-Bank-Fraud-Detection)
 **Tech :** Machine Learning, XGBoost, SMOTE
 - Modèle de détection de fraude bancaire optimisé pour le business (**37M€ d'économies théoriques**).
 - Maximisation du Recall et minimisation des risques.
 
-### 🚛 [Logistics Data Optimization](https://github.com/aml08/Supply-Chain-Data-Pipeline-Optimization)
+### [Logistics Data Optimization](https://github.com/aml08/Supply-Chain-Data-Pipeline-Optimization)
 **Tech :** PostgreSQL, Python, SQL Optimization
 - Nettoyage et centralisation de flux logistiques hétérogènes.
 - **-25%** de temps de requête et **100%** de données critiques sauvées (Projet Industriel).
 
-### 🏥 [Système Expert - Assurance Santé](https://github.com/aml08/assurance-ml-app)
+### [Système Expert - Assurance Santé](https://github.com/aml08/assurance-ml-app)
 **Tech :** Python, Streamlit, Scikit-Learn
 - Application web ML de prédiction de frais médicaux.
 - Focus sur l'explicabilité du modèle, la sécurité (Authentification, Logs) et la conformité RGPD.
 - Nom d'utilisateur : admin, mdp : admin
 - [Voir la démo en ligne](https://assurance-ml-app-aml08.streamlit.app/)
 
-### 🩺 [Medical NLP Pipeline : Classification Clinique](https://github.com/aml08/Medical-NLP-Pipeline)
+### [Medical NLP Pipeline : Classification Clinique](https://github.com/aml08/Medical-NLP-Pipeline)
 **Tech :** Python, NLP (Word2Vec), SVM, Scikit-Learn
 - Modèle de classification supervisée multi-classe de transcriptions médicales pour un CHU (objectif : **+30% de productivité**).
 - Pipeline d'apprentissage 100% local garantissant le strict respect du secret médical et la conformité RGPD (aucune API externe).
